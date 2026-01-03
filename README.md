@@ -61,3 +61,6 @@ graph TD
     C --> D[Analizator PGN]
     C --> E[Baza Zadań/Quizów]
     D --> F[Raport dla Użytkownika]
+```	
+
+![image alt](https://github.com/PiotrIT2015/chess-assistant/blob/master/screenshot.jpg?raw=true)
